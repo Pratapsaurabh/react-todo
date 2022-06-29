@@ -1,0 +1,13 @@
+.container {
+  border: 1px solid black;
+  width: 30%;
+
+  margin: auto;
+  margin-top: 30px;
+  min-height: 300px;
+  background-color: whitesmoke;
+  
+}
+.add-btn{
+    margin-left: 10px;
+}
